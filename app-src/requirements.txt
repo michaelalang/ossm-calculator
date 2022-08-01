@@ -1,0 +1,6 @@
+gunicorn
+Flask
+markdown
+pandas
+PYyaml
+tabulate
